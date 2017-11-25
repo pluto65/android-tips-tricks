@@ -1,1 +1,3 @@
-Begin translation...
+![Image](img/github_banner.png)
+
+### برای پشتیبانی و حمایت از این پروژه، لطفا تعدادی :heart: و ستاره برای repo به این پروژه بدهید.
