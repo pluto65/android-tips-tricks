@@ -9,3 +9,5 @@
 
 **هم چنین در**
 + [Awesome Android Newsletter #Issue 16](https://android.libhunt.com/newsletter/16)
+
+**نکته ها و ترفندهایی در توسعه برنامه های اندرویدی**
